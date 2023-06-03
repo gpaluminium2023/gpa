@@ -1,0 +1,519 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179557783-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179557783-1');
+</script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>About Us</title>
+  <!-- Pat icon -->
+  <link rel="icon" href="img/logo.png" type="image/png">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+  <style>
+    html,
+    body,
+    header,
+    .jarallax {
+      height: 700px;
+      min-height: 700px;
+    }
+    @media (max-width: 450px) {
+      html,
+      body,
+      header,
+      .jarallax {
+        height: 700px;
+        min-height: 700px;
+      }
+    }
+    @media (min-width: 451px) and (max-width: 740px) {
+      html,
+      body,
+      header,
+      .jarallax {
+        height: 500px;
+        min-height: 500px;
+      }
+    }
+    @media (min-width: 800px) and (max-width: 850px) {
+      html,
+      body,
+      header,
+      .jarallax {
+        height: 550px;
+        min-height: 550px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navigation & Intro -->
+  <header>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top scrolling-navbar white">
+      <div class="container">
+        <a class="navbar-brand font-weight-bold title" href="index.php">
+          <img src="img/logo.png" height="30" alt="Patcollins_Logo"> 
+          PATCOLLINS
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="list-unstyled navbar-nav mr-auto smooth-scroll">
+            <li class="blue nav-item ml-3">
+              <a class="nav-link title" href="about.php" data-offset="90">About</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="products.php" data-offset="90">Products</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="services.php" data-offset="90">Services</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="gallery.php" data-offset="90">Gallery</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="contact.php" data-offset="90">Contact</a>
+            </li>
+          </ul>
+
+          <!-- Social Icon  -->
+          <ul class="navbar-nav nav-flex-icons">
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://web.facebook.com/official.rexedge">
+                <i class="fab fa-facebook-f title"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://g.page/The-Redstudio?gm">
+                <i class="fab fa-google-plus-g title"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.instagram.com/official.rexedge/">
+                <i class="fab fa-instagram title"></i>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+      </div>
+    </nav>
+
+<!-- Intro Section -->
+<div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/8.jpg');">
+  <div class="mask rgba-indigo-light">
+    <div class="container h-100 d-flex justify-content-center align-items-center">
+      <div class="row pt-5 mt-3">
+        <div class="col-md-12 wow fadeIn mb-3">
+          <div class="text-center white-text">
+            <ul class="list-unstyled ">
+              <li>
+                <h1 class="display-4 mt-md-5 mt-lg-0 mb-5 font-weight-bold white-text wow fadeIn"
+                  data-wow-delay="0.3s">
+                  <strong>About us</strong>
+                </h1>
+              </li>
+              <li>
+                <h5 class="white-text description mb-5 wow fadeIn" data-wow-delay="0.4s">
+                  <strong>Patcollins Standard Aluminium</strong> is an aluminium marketing company <strong>ESTABLISHED</strong>
+                  and <strong>REGISTERED</strong> in Nigeria. We are <strong>Business-Men and Engineers</strong> with the aim of 
+                  providing <strong>DURABLE and QUALITY</strong> Aluminium products to our clients and also to satisfy them 
+                  with the frequent <strong>Technical Innovations</strong> in the building industry.
+                </h5>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+  </header>
+  <!-- Navigation & Intro -->
+
+  <!-- Main content -->
+  <main>
+
+<div class="container">
+
+  <!-- Section: About 1 -->
+  <section id="about" class="mt-5 mb-5 py-3 wow fadeIn" data-wow-delay="0.2s">
+
+    <!-- Grid row -->
+    <div class="row pt-2 mt-5">
+
+      <!-- Grid column -->
+      <div class="col-lg-5 col-md-12 mb-3 wow fadeIn" data-wow-delay="0.4s">
+        <!-- Image -->
+        <img src="img/3.jpg" class="img-fluid z-depth-1 rounded"
+          alt="My photo">
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-6 ml-auto col-md-12 wow fadeIn" data-wow-delay="0.4s">
+
+        <!-- Secion heading -->
+        <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+          <strong>More About us.</strong>
+        </h3>
+
+        <!-- Description -->
+        <p align="justify" class="grey-text">
+          We consist of <strong>Young, Truthful, Dynamic and Reliable </strong>Nigerian Engineers and
+          Technicians, we have also proven many years of <strong>Practical Experience </strong> in the
+          Aluminium Roofing, Stone Tiles Roofing and P.V.C. Ceiling Works in Nigeria
+        </p>
+        <p align="justify" class="grey-text">
+          Our prices and conditions of service is equally very competitive, moreover, our promptness to
+          service delivery makes us unrivaled. Our Factory is well equipped, hence, we focus on 
+          <strong>Manufacturing, Supplying and Installing </strong> a range of Highest Quality Aluminium
+          Products for Builders and Engineers.
+        </p>
+
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row -->
+
+  </section>
+  <!-- Section: About 1 -->
+
+  <hr>
+
+  <!-- Section: About 2 -->
+  <section id="about" class="mt-5 mb-5 pb-3 wow fadeIn" data-wow-delay="0.2s">
+
+    <!-- Grid row -->
+    <div class="row pt-4 mt-5">
+
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-12 wow fadeIn px-5" data-wow-delay="0.4s">
+
+        <!-- Secion heading -->
+        <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+          <strong>Our Mission</strong>
+        </h3>
+
+        <!-- Description -->
+        <p align="justify" class="grey-text">Our Mission is to provide the good quality, trust-worthy and reliable
+         products and services for our customers at flexible and affordable price. 
+        </p>
+
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-12 wow fadeIn px-5" data-wow-delay="0.4s">
+
+        <!-- Secion heading -->
+        <h3 class="mb-5 dark-grey-text title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+          <strong>Our Vision</strong>
+        </h3>
+
+        <!-- Description -->
+        <p align="justify" class="grey-text">Our Vision is to become the world’s leading building material company,
+          steadily aiming at excellence and innovation in the field of construction.
+        </p>
+
+      </div>
+      <!-- Grid column -->
+
+    </div>
+    <!-- Grid row -->
+
+  </section>
+  <!-- Section: About 2 -->
+
+  <hr>
+
+  <!-- Section: Team -->
+  <section class="team-section pb-5 mb-4" id="team">
+
+    <!-- Secion heading -->
+    <h3 class="my-5 pt-4 text-center title font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+      <strong>Meet Our Amazing Staffs</strong>
+    </h3>
+    <!-- Section description -->
+    <p class="grey-text w-responsive text-center mx-auto mb-5">
+      To achieve our mission and vision statements, we must have efficient and effective staffs that are dedicated
+      to the same statements above, hence the choice of staffs (Well-Groomed and Qualified) that we have.
+    </p>
+
+    <!-- Grid row -->
+    <div class="row mb-lg-6 text-center text-md-left">
+
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-12 mb-5 text-center">
+
+        <div class="col">
+          <div class="avatar mx-auto white mb-md-0 mb-4">
+            <img src="img/dir.jpg" class="rounded z-depth-1"
+              alt="Image of Director">
+          </div>
+        </div>
+
+        <div class="col pt-2">
+          <h4>
+            <strong>Anih Bartholomew. O.</strong>
+          </h4>
+          <h6 class="font-weight-bold red-text mb-4">Director</h6>
+
+        </div>
+
+      </div>
+      <!-- Grid column -->
+
+      <!-- Grid column -->
+      <div class="col-lg-6 col-md-12 mb-5 text-center">
+
+        <div class="col">
+          <div class="avatar mx-auto white mb-md-0 mb-4">
+            <img src="img/amd.jpg" class="rounded z-depth-1"
+              alt="Image of Asst.">
+          </div>
+        </div>
+
+        <div class="col pt-2">
+          <h4>
+            <strong>Anih Nkemdilim. F</strong>
+          </h4>
+          <h6 class="font-weight-bold red-text mb-4">General manager</h6>
+
+        </div>
+
+      </div>
+      <!-- Grid column -->
+    </div>
+    <!-- Grid row -->
+
+  </section>
+  <!-- Section: Team -->
+
+</div>
+
+<!-- Streak -->
+<div class="streak streak-photo streak-md" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/architecture.jpg');">
+  <div class="flex-center mask rgba-gradient">
+    <div class="container my-5">
+
+      <!-- Section heading -->
+      <h3 class="text-center mb-5 pb-4 white-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+        <strong>Some facts about us</strong>
+      </h3>
+
+      <!-- First row -->
+      <div class="row text-center">
+
+        <!-- First column -->
+        <div class="col-md-3 mb-2">
+          <h1 class="white-text mb-1 font-weight-bold">+950</h1>
+          <p class="white-text">Happy Clients</p>
+        </div>
+        <!-- First column -->
+
+        <!-- Second column -->
+        <div class="col-md-3 mb-2">
+          <h1 class="white-text mb-1 font-weight-bold">+150</h1>
+          <p class="white-text">Completed Projects</p>
+        </div>
+        <!-- Second column -->
+
+        <!-- Third column -->
+        <div class="col-md-3 mb-2">
+          <h1 class="white-text mb-1 font-weight-bold">+25</h1>
+          <p class="white-text">Dedicated Staffs</p>
+        </div>
+        <!-- Third column -->
+
+        <!-- Fourth column -->
+        <div class="col-md-3">
+          <h1 class="white-text mb-1 font-weight-bold">+46</h1>
+          <p class="white-text">Active Engineers</p>
+        </div>
+        <!-- Fourth column -->
+
+      </div>
+    </div>
+  </div>
+  <!-- Streak -->
+
+</main>
+  <!-- Main content -->
+
+  <!-- Footer -->
+  <footer class="page-footer text-center text-md-left unique-color-dark pt-0 mt-0">
+
+    <div class="top-pink-footer">
+      <div class="container">
+
+        <!-- Grid row -->
+        <div class="row py-4 d-flex align-items-center">
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-5 text-center text-md-left mb-md-0">
+            <h6 class="mb-4 mb-md-0 white-text">Get connected with us on social networks!</h6>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-7 text-center text-md-right">
+            <!-- Facebook -->
+            <a class="p-2 m-2 fa-lg fb-ic ml-0" href="https://web.facebook.com/official.rexedge">
+              <i class="fab fa-facebook-f white-text mr-lg-4"> </i>
+            </a>
+            <!-- Google + -->
+            <a class="p-2 m-2 fa-lg gplus-ic" href="https://g.page/The-Redstudio?gm">
+              <i class="fab fa-google-plus-g white-text mr-lg-4"> </i>
+            </a>
+            <!-- Instagram -->
+            <a class="p-2 m-2 fa-lg ins-ic" href="https://www.instagram.com/official.rexedge/">
+              <i class="fab fa-instagram white-text mr-lg-4"> </i>
+            </a>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
+      </div>
+    </div>
+
+    <!-- Footer Links -->
+    <div class="container mt-5 mb-4 text-center text-md-left">
+      <div class="row mt-3">
+
+        <!-- First column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Patcollins Standard Aluminium</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+          We are <strong>Business-Men and Engineers</strong> with the aim of 
+          providing <strong>DURABLE and QUALITY</strong> Aluminium products to our clients and also to satisfy them 
+          with the frequent <strong>Technical Innovations</strong> in the building industry.
+          </p>
+        </div>
+        <!-- First column -->
+
+        <!-- Second column -->
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Products</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="products.php#flatsheets">Flatsheets</a>
+          </p>
+          <p>
+            <a href="products.php#roofingsheets">Roofing Sheets</a>
+          </p>
+          <p>
+            <a href="products.php#stonetiles">Stone Tiles</a>
+          </p>
+          <p>
+            <a href="products.php#accessories">Accessories</a>
+          </p>
+        </div>
+        <!-- Second column -->
+
+        <!-- Third column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Services</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="services.php">Measurement</a>
+          </p>
+          <p>
+            <a href="services.php">Quotation</a>
+          </p>
+          <p>
+            <a href="services.php">Roofing</a>
+          </p>
+          <p>
+            <a href="contact.php">Contact Us</a>
+          </p>
+        </div>
+        <!-- Third column -->
+
+        <!-- Fourth column -->
+        <div class="col-md-4 col-lg-3 col-xl-3">
+          <h6 class="spacing font-weight-bold">
+            <strong>Contact</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <i class="fas fa-industry mr-3"></i> 45, Arigbanla Street, Off Ipaja Road, Abekoko B/Stop, Agege, Lagos State</p>
+          <p>
+            <i class="fas fa-envelope mr-3"></i> patcollins2000@gmail.com</p>
+          <p>
+            <i class="fas fa-phone mr-3"></i> 08033249420 | 07088589940 | 08038102388</p>
+        </div>
+        <!-- Fourth column -->
+
+      </div>
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">
+      <div class="container-fluid">
+        <a href="https://rexedge.xyz" target="_blank">© R3D 5TUDIO 2020</a>
+      </div>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+    <!-- Footer -->
+
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+  <script>
+    // Animation init
+    new WOW().init();
+
+    // Material Select Initialization
+    $(document).ready(function () {
+      $('.mdb-select').material_select();
+    });
+  </script>
+
+</body>
+
+</html>

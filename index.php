@@ -1,0 +1,727 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-179557783-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-179557783-1');
+</script>
+<script data-ad-client="ca-pub-2109983496009042" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta http-equiv="x-ua-compatible" content="ie=edge">
+  <title>Patcollins Standard Aluminium</title>
+  <!-- Pat icon -->
+  <link rel="icon" href="img/logo.png" type="image/png">
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css">
+  <!-- Bootstrap core CSS -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <!-- Material Design Bootstrap -->
+  <link href="css/mdb.min.css" rel="stylesheet">
+
+  <style>
+    /* Necessary for full page carousel*/
+    html,
+    body,
+    header,
+    .view {
+      height: 100%;
+    }
+    @media (min-width: 451px) and (max-width: 740px) {
+      html,
+      body,
+      header,
+      .view {
+        height: 500px;
+      }
+    }
+    @media (min-width: 800px) and (max-width: 850px) {
+      html,
+      body,
+      header,
+      .view {
+        height: 550px;
+      }
+    }
+
+    /* Carousel*/
+    .carousel,
+    .carousel-item,
+    .carousel-item.active {
+      height: 100%;
+    }
+
+    .carousel-inner {
+      height: 100%;
+    }
+
+    .carousel-item:nth-child(1) {
+      background-image: url("img/7.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .carousel-item:nth-child(2) {
+      background-image: url("img/5.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+
+    .carousel-item:nth-child(3) {
+      background-image: url("img/3.jpg");
+      background-repeat: no-repeat;
+      background-size: cover;
+      background-position: center center;
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navigation & Intro -->
+  <header>
+
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg navbar-light fixed-top scrolling-navbar white">
+      <div class="container">
+        <a class="navbar-brand font-weight-bold title" href="index.php">
+          <img src="img/logo.png" height="30" alt="Patcollins_Logo"> 
+          PATCOLLINS
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarTogglerDemo02"
+          aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
+          <ul class="list-unstyled navbar-nav mr-auto smooth-scroll">
+            <li class="nav-item ml-3">
+              <a class="nav-link title" href="about.php" data-offset="90">About</a>
+              <!--<span class="sr-only">(current)</span>-->
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="products.php" data-offset="90">Products</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="services.php" data-offset="90">Services</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="gallery.php" data-offset="90">Gallery</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="contact.php" data-offset="90">Contact</a>
+            </li>
+          </ul>
+
+          <!-- Social Icon  -->
+          <ul class="navbar-nav nav-flex-icons">
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://web.facebook.com/official.rexedge">
+                <i class="fab fa-facebook-f title"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://g.page/The-Redstudio?gm">
+                <i class="fab fa-google-plus-g title"></i>
+              </a>
+            </li>
+
+            <li class="nav-item">
+              <a class="nav-link" href="https://www.instagram.com/official.rexedge/">
+                <i class="fab fa-instagram title"></i>
+              </a>
+            </li>
+
+          </ul>
+
+        </div>
+      </div>
+    </nav>
+
+    <!-- Carousel Wrapper -->
+    <div id="carousel-example-3" class="carousel slide carousel-fade" data-ride="carousel">
+
+      <!-- Indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carousel-example-3" data-slide-to="0" class="active"></li>
+        <li data-target="#carousel-example-3" data-slide-to="1"></li>
+        <li data-target="#carousel-example-3" data-slide-to="2"></li>
+      </ol>
+      <!-- Indicators -->
+
+      <!-- Slides -->
+      <div class="carousel-inner" role="listbox">
+
+        <!-- First slide -->
+        <div class="carousel-item active">
+          <!-- Mask -->
+          <div class="view">
+            <div
+              class="h-100 d-flex justify-content-center align-items-center mask rgba-black-light white-text text-center">
+              <ul class="list-unstyled animated fadeInUp col-md-12">
+                <li>
+                  <h3 class="font-weight-bold">
+                    <strong><sup>RC: 1410218</sup></strong>
+                  </h3>                  
+                </li>
+                <li>
+                  <h1 class="display-4 font-weight-bold wow fadeIn" data-wow-delay="0.3s">
+                    PATCOLLINS STANDARD
+                  </h1>
+                  <hr class="hr-light wow fadeIn w-50" data-wow-delay="0.3s">
+                </li>
+                <li>
+                  <h3 class="my-4 wow fadeIn font-weight-bold" data-wow-delay="0.3s">Aluminium Company Limited</h3>
+                </li>
+                <li>
+                  <a target="_blank" href="products.php"
+                    class="btn pink-gradient btn-rounded btn-lg font-weight-bold wow fadeIn" data-wow-delay="0.5s">
+                    Check Our Products
+                  </a>
+                  <a target="_blank" href="contact.php"
+                    class="btn btn-white btn-rounded btn-lg orange-text font-weight-bold ml-lg-0 wow fadeIn"
+                    data-wow-delay="0.7s"><i class="fas fa-envelope-open orange-text mr-2" aria-hidden="true"></i>
+                    Contact Us
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- Mask -->
+        </div>
+        <!-- First slide -->
+
+        <!-- Second slide -->
+        <div class="carousel-item">
+          <!-- Mask -->
+          <div class="view">
+            <div
+              class="h-100 d-flex justify-content-center align-items-center mask rgba-indigo-light white-text text-center">
+              <ul class="list-unstyled animated fadeInUp col-md-12">
+                <li>
+                  <h1 class="display-4 font-weight-bold">Efficient and Effective Staffs</h1>
+                </li>
+                <li>
+                  <h3 class="my-4">Well groomed and qualified.</h3>
+                </li>
+                <li>
+                  <a target="_blank" href="about.php#team"
+                    class="btn pink-gradient btn-rounded btn-lg" rel="nofollow">Meet Our Team</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- Mask -->
+        </div>
+        <!-- Second slide -->
+
+        <!-- Third slide -->
+        <div class="carousel-item">
+          <!-- Mask -->
+          <div class="view">
+            <div
+              class="h-100 d-flex justify-content-center align-items-center mask rgba-black-light white-text text-center">
+              <ul class="list-unstyled animated fadeInUp col-md-12">
+                <li>
+                  <h1 class="display-4 font-weight-bold">Trust-Worthy Products and Services</h1>
+                </li>
+                <li>
+                  <h3 class="my-4">For Amazing and Durable Roofing at affordable Price.</h3>
+                </li>
+                <li>
+                  <a target="_blank" href="products.php"
+                    class="btn pink-gradient btn-rounded btn-lg" rel="nofollow">Check Our Products</a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <!-- Mask -->
+        </div>
+        <!-- Third slide -->
+
+      </div>
+      <!-- Slides -->
+
+      <!-- Controls -->
+      <a class="carousel-control-prev" href="#carousel-example-3" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carousel-example-3" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
+      <!-- Controls -->
+    </div>
+    <!-- Carousel Wrapper -->
+
+  </header>
+  <!-- Navigation & Intro -->
+
+  <!-- Main content -->
+  <main>
+
+    <div class="container">
+
+      <!-- Section: Features v.4 -->
+      <section id="features" class="text-center my-5">
+
+        <!-- Section heading -->
+        <h2 class="title font-weight-bold my-5 wow fadeIn" data-wow-delay="0.2s">
+          <strong>Patcollins Standard Aluminium</strong>
+        </h2>
+
+        <!-- Section description -->
+        <p class="grey-text w-responsive mx-auto mb-5 wow fadeIn" data-wow-delay="0.2s">
+          <strong>Patcollins Standard Aluminium</strong> is an aluminium marketing company <strong>ESTABLISHED</strong>
+          and <strong>REGISTERED</strong> in Nigeria. We are <strong>Business-Men and Engineers</strong> with the aim of 
+          providing <strong>DURABLE and QUALITY</strong> Aluminium products to our clients and also to satisfy them 
+          with the frequent <strong>Technical Innovations</strong> in the building industry.
+        </p>
+
+        <!-- Grid row -->
+        <div class="row wow fadeIn" data-wow-delay="0.2s">
+
+          <!-- Grid column -->
+          <div class="col-lg-4 text-center">
+            <div class="icon-area">
+              <div class="circle-icon">
+              <img src="img/longspan.jpg" class="img-fluid">
+              </div>
+              <br>
+              <h5 class="dark-grey-text font-weight-bold mt-2">Long Span Roofing Sheets</h5>
+              <div class="mt-1">
+                <p class="mx-3 grey-text">All thicknesses of all colors are available at affordable price.
+                  Check our <a href="products.php">Product Page</a> to see all available products.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-lg-4 text-center">
+            <div class="icon-area">
+              <div class="circle-icon">
+                <img src="img/stonetiles.jpg" class="img-fluid">
+              </div>
+              <br>
+              <h5 class="dark-grey-text font-weight-bold mt-2">Stone Coated Roof Tiles</h5>
+              <div class="mt-1">
+                <p class="mx-3 grey-text">Be it <strong>Shingle, Classic, Bond</strong>, You can find them on
+                  our <a href="products.php">Product Page</a>. If you need any information, visit our <a href="contact.php">Contact Page</a></p>
+              </div>
+            </div>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-lg-4 text-center mb-4">
+            <div class="icon-area">
+              <div class="circle-icon">
+                <img src="img/flatsheet.jpg" class="img-fluid">
+              </div>
+              <br>
+              <h5 class="dark-grey-text font-weight-bold mt-2">Aluminium Flat Sheets</h5>
+              <div class="mt-1">
+                <p class="mx-3 grey-text">All thicknesses of all colors are available at affordable price.
+                  Check our <a href="products.php">Product Page</a> to see all available products.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
+      </section>
+      <!-- Section: Features v.4 -->
+
+    </div>
+
+    <!-- Streak -->
+    <div class="streak streak-photo streak-md" style="background-image: url('img/roof1.jpg');">
+      <div class="flex-center view rgba-black-strong">
+        <div class="container py-3">
+
+          <!-- Section: Features v.4 -->
+          <section class="wow fadeIn" data-wow-delay="0.2s">
+
+            <!-- Section heading -->
+            <h2 class="py-5 my-5 white-text font-weight-bold text-center wow fadeIn" data-wow-delay="0.2s">
+              Why choose PATCOLLINS STANDARD</h2>
+
+            <!-- Grid row -->
+            <div class="row mb-5">
+
+              <!-- Grid column -->
+              <div class="col-md-12 col-lg-6">
+
+                <!-- Grid row -->
+                <div class="row mb-5">
+                  <div class="col-2">
+                    <img src="img/integrity.png" class="img-fluid">
+                  </div>
+                  <div class="col-9 pl-5">
+                    <h4 class="font-weight-bold white-text">Integrity</h4>
+                    <p class="white-text">
+                      We bank on the fact that clients will return when all products supplied are what they want
+                      it to be and more. We are Trust-Worthy.
+                    </p>
+                  </div>
+                </div>
+                <!-- Grid row -->
+
+                <!-- Grid row -->
+                <div class="row mb-5">
+                  <div class="col-2">
+                    <img src="img/review.png" class="img-fluid">
+                  </div>
+                  <div class="col-9 pl-5">
+                    <h4 class="font-weight-bold white-text">Customer Satisfaction</h4>
+                    <p class="white-text">
+                      We ensure that all customers are satisfied by being <strong>Transparent, Flexible, Accountable,
+                      Trust-Worthy and Excellent.</strong>
+                    </p>
+                  </div>
+                </div>
+                <!-- Grid row -->
+
+              </div>
+              <!-- Grid column -->
+
+              <!-- Grid column -->
+              <div class="col-md-12 col-lg-6">
+
+                <!-- Grid row -->
+                <div class="row mb-5">
+                  <div class="col-2">
+                    <img src="img/accounting.png" class="img-fluid">
+                  </div>
+                  <div class="col-9 pl-5">
+                    <h4 class="font-weight-bold white-text">Accountability</h4>
+                    <p class="white-text">
+                      We pride our self on being accountable for products originating from the our factory
+                      as we keep detailed records of all our transactions.
+                    </p>
+                  </div>
+                </div>
+                <!-- Grid row -->
+
+                <!-- Grid row -->
+                <div class="row mb-5">
+                  <div class="col-2">
+                      <img src="img/trophy.png" class="img-fluid">
+                  </div>
+                  <div class="col-9 pl-5">
+                    <h4 class="font-weight-bold white-text">Excellence</h4>
+                    <p class="white-text">
+                      We strive to attain excellence by setting a standard Modus Operandi and consistently
+                      improving to serve you better.  
+                    </p>
+                  </div>
+                </div>
+                <!-- Grid row -->
+
+              </div>
+              <!-- Grid column -->
+
+            </div>
+            <!-- Grid row -->
+
+          </section>
+          <!-- Section: Features v.4 -->
+        </div>
+      </div>
+    </div>
+    <!-- Streak -->
+
+    <!-- Second container -->
+    <div class="container-fluid" style="background-color: #e4f4fa">
+      <div class="container py-4">
+
+        <!-- Section: Services -->
+        <section class="my-3 pb-3">
+
+          <!-- Section heading -->
+          <h3 class="text-center title my-5 pt-4 pb-5 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
+            <strong>Easy to get started</strong>
+          </h3>
+
+          <!-- First row -->
+          <div class="row wow fadeIn" data-wow-delay="0.4s">
+
+            <!-- First column -->
+            <div class="col-md-4 mb-5 text-center">
+
+              <!-- Panel -->
+              <div class="card card-body text-left white hoverable">
+                <p class="title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                  <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
+                  <strong>01 Check Products</strong>
+                </p>
+                <p class="grey-text font-small mx-4">Surf through our products and services to be sure your products
+                  is available. Click <a href="products.php">here.</a>
+                </p>
+              </div>
+              <!-- Panel -->
+
+            </div>
+            <!-- First column -->
+
+            <!-- Second column -->
+            <div class="col-md-4 mb-5 text-center">
+
+              <!-- Panel -->
+              <div class="card card-body text-left white hoverable">
+                <p class="title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                  <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
+                  <strong>02 Place Order</strong>
+                </p>
+                <p class="grey-text font-small mx-4">Contact us to take your order or visit our factory to place
+                  your order. Visit our <a href="contact.php">Contact page.</a>
+                </p>
+              </div>
+              <!-- Panel -->
+
+            </div>
+            <!-- Second column -->
+
+            <!-- Third column -->
+            <div class="col-md-4 mb-5 text-center">
+
+              <!-- Panel -->
+              <div class="card card-body text-left white hoverable">
+                <p class="title font-weight-bold dark-grey-text text-uppercase spacing mt-4 mx-4">
+                  <i class="fas fa-square orange-text mr-2" aria-hidden="true"></i>
+                  <strong>03 Verify Order</strong>
+                </p>
+                <p class="grey-text font-small mx-4">Upon completion of your order, visit our factory to crosscheck
+                  all your orders before transpotation.
+                </p>
+              </div>
+              <!-- Panel -->
+
+            </div>
+            <!-- Third column -->
+
+          </div>
+          <!-- First row -->
+
+        </section>
+        <!-- Section: Services -->
+
+      </div>
+    </div>
+
+    <!-- Section: Partners -->
+    <!-- <section>
+
+      <div class="container-fluid" style="background-color: #f4f4fa;">
+        <div class="container py-5">
+
+         <div class="flex-center row logos-panel mb-2 wow fadeIn" data-wow-delay="0.4s">
+            <h3>Companies We Have Worked For</h3>
+          </div>
+
+          <div class="flex-center">
+
+            <div class="row logos-panel mb-2 wow fadeIn" data-wow-delay="0.4s">
+
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/38.png" class="img-fluid">
+              </div>
+              
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/39.png" class="img-fluid">
+              </div>
+              
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/40.png" class="img-fluid">
+              </div>
+              
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/41.png" class="img-fluid">
+              </div>
+              
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/41.png" class="img-fluid">
+              </div>
+              
+              <div class="col-sm-4 col-md-2 flex-center">
+                <img src="https://mdbootstrap.com/img/Photos/Template/41.png" class="img-fluid">
+              </div>
+              
+            </div>
+            
+          </div>
+          
+        </div>
+
+      </div>
+
+    </section> -->
+    <!-- Section: Partners -->
+
+  </main>
+  <!-- Main content -->
+
+  <!-- Footer -->
+  <footer class="page-footer text-center text-md-left unique-color-dark pt-0 mt-0">
+
+    <div class="top-pink-footer">
+      <div class="container">
+
+        <!-- Grid row -->
+        <div class="row py-4 d-flex align-items-center">
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-5 text-center text-md-left mb-md-0">
+            <h6 class="mb-4 mb-md-0 white-text">Get connected with us on social networks!</h6>
+          </div>
+          <!-- Grid column -->
+
+          <!-- Grid column -->
+          <div class="col-md-6 col-lg-7 text-center text-md-right">
+            <!-- Facebook -->
+            <a class="p-2 m-2 fa-lg fb-ic ml-0" href="https://web.facebook.com/official.rexedge">
+              <i class="fab fa-facebook-f white-text mr-lg-4"> </i>
+            </a>
+            <!-- Google + -->
+            <a class="p-2 m-2 fa-lg gplus-ic" href="https://g.page/The-Redstudio?gm">
+              <i class="fab fa-google-plus-g white-text mr-lg-4"> </i>
+            </a>
+            <!-- Instagram -->
+            <a class="p-2 m-2 fa-lg ins-ic" href="https://www.instagram.com/official.rexedge/">
+              <i class="fab fa-instagram white-text mr-lg-4"> </i>
+            </a>
+          </div>
+          <!-- Grid column -->
+
+        </div>
+        <!-- Grid row -->
+
+      </div>
+    </div>
+
+    <!-- Footer Links -->
+    <div class="container mt-5 mb-4 text-center text-md-left">
+      <div class="row mt-3">
+
+        <!-- First column -->
+        <div class="col-md-3 col-lg-4 col-xl-3 mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Patcollins Standard Aluminium</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+          We are <strong>Business-Men and Engineers</strong> with the aim of 
+          providing <strong>DURABLE and QUALITY</strong> Aluminium products to our clients and also to satisfy them 
+          with the frequent <strong>Technical Innovations</strong> in the building industry.
+          </p>
+        </div>
+        <!-- First column -->
+
+        <!-- Second column -->
+        <div class="col-md-2 col-lg-2 col-xl-2 mx-auto mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Products</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="products.php#flatsheets">Flatsheets</a>
+          </p>
+          <p>
+            <a href="products.php#roofingsheets">Roofing Sheets</a>
+          </p>
+          <p>
+            <a href="products.php#stonetiles">Stone Tiles</a>
+          </p>
+          <p>
+            <a href="products.php#accessories">Accessories</a>
+          </p>
+        </div>
+        <!-- Second column -->
+
+        <!-- Third column -->
+        <div class="col-md-3 col-lg-2 col-xl-2 mx-auto mb-5">
+          <h6 class="spacing font-weight-bold">
+            <strong>Services</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <a href="services.php">Measurement</a>
+          </p>
+          <p>
+            <a href="services.php">Quotation</a>
+          </p>
+          <p>
+            <a href="services.php">Roofing</a>
+          </p>
+          <p>
+            <a href="contact.php">Contact Us</a>
+          </p>
+        </div>
+        <!-- Third column -->
+
+        <!-- Fourth column -->
+        <div class="col-md-4 col-lg-3 col-xl-3">
+          <h6 class="spacing font-weight-bold">
+            <strong>Contact</strong>
+          </h6>
+          <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
+          <p>
+            <i class="fas fa-industry mr-3"></i> 45, Arigbanla Street, Off Ipaja Road, Abekoko B/Stop, Agege, Lagos State</p>
+          <p>
+            <i class="fas fa-envelope mr-3"></i> patcollins2000@gmail.com</p>
+          <p>
+            <i class="fas fa-phone mr-3"></i> 08033249420 | 07088589940 | 08038102388</p>
+        </div>
+        <!-- Fourth column -->
+
+      </div>
+    </div>
+    <!-- Footer Links -->
+
+    <!-- Copyright -->
+    <div class="footer-copyright text-center py-3">
+      <div class="container-fluid">
+        <a href="https://rexedge.xyz" target="_blank">© R3D 5TUDIO 2020</a>
+      </div>
+    </div>
+    <!-- Copyright -->
+
+  </footer>
+  <!-- Footer -->
+  <!-- JQuery -->
+  <script type="text/javascript" src="js/jquery-3.4.1.min.js"></script>
+  <!-- Bootstrap tooltips -->
+  <script type="text/javascript" src="js/popper.min.js"></script>
+  <!-- Bootstrap core JavaScript -->
+  <script type="text/javascript" src="js/bootstrap.min.js"></script>
+  <!-- MDB core JavaScript -->
+  <script type="text/javascript" src="js/mdb.min.js"></script>
+  <script>
+    // Animation init
+    new WOW().init();
+
+    // Material Select Initialization
+    $(document).ready(function () {
+      $('.mdb-select').material_select();
+    });
+  </script>
+
+</body>
+
+</html>
