@@ -15,7 +15,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
-  <title>Gallery</title>
+  <title>Contact Us</title>
   <!-- Pat icon -->
   <link rel="icon" href="img/logo.png" type="image/png">
   <!-- Font Awesome -->
@@ -24,40 +24,22 @@
   <link href="css/bootstrap.min.css" rel="stylesheet">
   <!-- Material Design Bootstrap -->
   <link href="css/mdb.min.css" rel="stylesheet">
+
   <style>
-    html,
-    body,
-    header,
-    .jarallax {
-      height: 700px;
-      min-height: 700px;
+    body {
+      background-color: #eee;
     }
-    @media (max-width: 450px) {
-      html,
-      body,
-      header,
-      .jarallax {
-        height: 700px;
-        min-height: 700px;
-      }
+    .map-container-section {
+      overflow: hidden;
+      position: relative;
+      height: 0;
     }
-    @media (min-width: 451px) and (max-width: 740px) {
-      html,
-      body,
-      header,
-      .jarallax {
-        height: 500px;
-        min-height: 500px;
-      }
-    }
-    @media (min-width: 800px) and (max-width: 850px) {
-      html,
-      body,
-      header,
-      .jarallax {
-        height: 550px;
-        min-height: 550px;
-      }
+    .map-container-section iframe {
+      left: 0;
+      top: 0;
+      height: 100%;
+      width: 100%;
+      position: absolute;
     }
   </style>
 </head>
@@ -70,7 +52,7 @@
     <!-- Navbar -->
     <nav class="navbar navbar-expand-lg navbar-light fixed-top scrolling-navbar white">
       <div class="container">
-        <a class="navbar-brand font-weight-bold title" href="index.php">
+        <a class="navbar-brand font-weight-bold title" href="index.html">
           <img src="img/logo.png" height="30" alt="Patcollins_Logo"> 
           PATCOLLINS
         </a>
@@ -81,19 +63,19 @@
         <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
           <ul class="list-unstyled navbar-nav mr-auto smooth-scroll">
             <li class="nav-item ml-3">
-              <a class="nav-link title" href="about.php" data-offset="90">About</a>
+              <a class="nav-link title" href="about.html" data-offset="90">About</a>
             </li>
             <li class="nav-item ml-3 smooth-scroll">
-              <a class="nav-link title" href="products.php" data-offset="90">Products</a>
+              <a class="nav-link title" href="products.html" data-offset="90">Products</a>
             </li>
             <li class="nav-item ml-3 smooth-scroll">
-              <a class="nav-link title" href="services.php" data-offset="90">Services</a>
+              <a class="nav-link title" href="services.html" data-offset="90">Services</a>
+            </li>
+            <li class="nav-item ml-3 smooth-scroll">
+              <a class="nav-link title" href="gallery.html" data-offset="90">Gallery</a>
             </li>
             <li class="blue nav-item ml-3 smooth-scroll">
-              <a class="nav-link title" href="gallery.php" data-offset="90">Gallery</a>
-            </li>
-            <li class="nav-item ml-3 smooth-scroll">
-              <a class="nav-link title" href="contact.php" data-offset="90">Contact</a>
+              <a class="nav-link title" href="contact.html" data-offset="90">Contact</a>
             </li>
           </ul>
 
@@ -124,32 +106,11 @@
       </div>
     </nav>
 
-<!-- Intro Section -->
-<div class="view jarallax" data-jarallax='{"speed": 0.2}' style="background-image: url('img/8.jpg');">
-  <div class="mask rgba-indigo-light">
-    <div class="container h-100 d-flex justify-content-center align-items-center">
-      <div class="row pt-5 mt-3">
-        <div class="col-md-12 wow fadeIn mb-3">
-          <div class="text-center white-text">
-            <ul class="list-unstyled ">
-              <li>
-                <h1 class="display-4 mt-md-5 mt-lg-0 mb-5 font-weight-bold white-text wow fadeIn"
-                  data-wow-delay="0.3s">
-                  <strong>Product Gallery</strong>
-                </h1>
-              </li>
-              <li>
-                <h5 class="white-text description mb-5 wow fadeIn" data-wow-delay="0.4s">
-                
-                </h5>
-              </li>
-            </ul>
-          </div>
-        </div>
-      </div>
+    <section>
+    <div id="map-container-demo-section" class="map-container-section mb-4" style="height: 500px">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d990.7878576930077!2d3.3038183291655567!3d6.628105931841842!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x103b91196f6a13fd%3A0x72bd856a9f206e1!2sArigbanla%20St%2C%20Agege%2C%20Lagos!5e0!3m2!1sen!2sng!4v1599279982776!5m2!1sen!2sng" frameborder="0" style="border:0"></iframe>
     </div>
-  </div>
-</div>
+    </section>
 
   </header>
   <!-- Navigation & Intro -->
@@ -157,27 +118,124 @@
   <!-- Main content -->
   <main>
 
-<div class="container">
+<div class="container-fluid mb-5">
 
-  <section class="mt-3 mb-5 pt-1 pb-5">
+  <!-- Grid row -->
+  <div class="row" style="margin-top: -100px;">
 
-    <!-- Section heading -->
-    <h3 class="text-center title my-5 pt-4 pb-4 dark-grey-text font-weight-bold wow fadeIn" data-wow-delay="0.2s">
-      <strong>Our projects</strong>
-    </h3>
+    <!-- Grid column -->
+    <div class="col-md-12">
 
-    <!-- Grid row -->
-    <div class="row">
+      <div class="card pb-5">
+        <div class="card-body">
 
-      <!-- Grid column -->
-      <div class="col-md-12 d-flex justify-content-center mb-5 pb-2">
+          <div class="container">
 
-        <button type="button" class="btn btn-rounded btn-white font-weight-bold waves-effect filter"
-          data-rel="all">All</button>
-        <button type="button" class="btn btn-rounded btn-white font-weight-bold waves-effect filter"
-          data-rel="1">Equipments</button>
-        <button type="button" class="btn btn-rounded btn-white font-weight-bold waves-effect filter"
-          data-rel="2">Workers</button>
+            <!-- Section: Contact v.2 -->
+            <section class="text-center">
+
+              <!-- Section heading -->
+              <h2 class="font-weight-bold title h1 my-5">Contact us</h2>
+              <!-- Section description -->
+              <p class="grey-text w-responsive mx-auto mb-5">
+                Feel the form below to cantact us if you need to inquire about our products, you can also call
+                us on the numbers below or visit our head office and factory at the address shown below.
+              </p>
+
+              <div class="row pt-5">
+
+                <!--Grid column-->
+                <div class="col-md-8 mb-md-0 mb-5">
+                    <form id="contact-form" name="contact-form" action="mail.html" method="POST">
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-md-6">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="name" name="name" class="form-control">
+                                    <label for="name" class="">Your name</label>
+                                </div>
+                            </div>
+                            <!--Grid column-->
+
+                            <!--Grid column-->
+                            <div class="col-md-6">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="email" name="email" class="form-control">
+                                    <label for="email" class="">Your email</label>
+                                </div>
+                            </div>
+                            <!--Grid column-->
+
+                        </div>
+                        <!--Grid row-->
+
+                        <!--Grid row-->
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="md-form mb-0">
+                                    <input type="text" id="subject" name="subject" class="form-control">
+                                    <label for="subject" class="">Subject</label>
+                                </div>
+                            </div>
+                        </div>
+                        <!--Grid row-->
+
+                        <!--Grid row-->
+                        <div class="row">
+
+                            <!--Grid column-->
+                            <div class="col-md-12">
+
+                                <div class="md-form">
+                                    <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                                    <label for="message">Your message</label>
+                                </div>
+
+                            </div>
+                        </div>
+                        <!--Grid row-->
+
+                    </form>
+
+                    <div class="text-center text-md-left">
+                        <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+                    </div>
+                    <div class="status"></div>
+                </div>
+                <!--Grid column-->
+
+                <!-- Grid column -->
+                <div class="col-md-4 col-xl-3">
+                  <ul class="list-unstyled contact-icons">
+                    
+                    <li>
+                      <i class="fas fa-industry fa-2x orange-text"></i> Factory
+                      <p>45, Arigbanla Street, Off Ipaja Road, Abekoko B/Stop, Agege, Lagos State</p>
+                    </li>
+
+                    <li>
+                      <i class="fas fa-phone fa-2x orange-text"></i> Phone Numbers
+                      <p>08033249420 | 07088589940 | 08038102388</p>
+                    </li>
+
+                    <li>
+                      <i class="fas fa-envelope fa-2x orange-text"></i> Email Address
+                      <p>patcollins2000@gmail.com</p>
+                    </li>
+                  </ul>
+                </div>
+                <!-- Grid column -->
+
+              </div>
+
+            </section>
+            <!-- Section: Contact v.2 -->
+
+          </div>
+        </div>
 
       </div>
       <!-- Grid column -->
@@ -185,66 +243,7 @@
     </div>
     <!-- Grid row -->
 
-    <!-- Grid row -->
-    <div class="gallery" id="gallery">
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 2">
-        <img class="img-fluid" src="img/1.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 3">
-        <img class="img-fluid" src="img/3.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 4">
-        <img class="img-fluid" src="img/4.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 2">
-        <img class="img-fluid" src="img/5.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 1">
-        <img class="img-fluid" src="img/6.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 3">
-        <img class="img-fluid" src="img/7.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 4">
-        <img class="img-fluid" src="img/8.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 2">
-        <img class="img-fluid" src="img/9.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-      <!-- Grid column -->
-      <div class="mb-3 pics animation all 1">
-        <img class="img-fluid" src="img/10.jpg" alt="Card image cap">
-      </div>
-      <!-- Grid column -->
-
-    </div>
-    <!-- Grid row -->
-
-  </section>
+  </div>
 
 </div>
 
@@ -314,16 +313,16 @@
           </h6>
           <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="products.php#flatsheets">Flatsheets</a>
+            <a href="products.html#flatsheets">Flatsheets</a>
           </p>
           <p>
-            <a href="products.php#roofingsheets">Roofing Sheets</a>
+            <a href="products.html#roofingsheets">Roofing Sheets</a>
           </p>
           <p>
-            <a href="products.php#stonetiles">Stone Tiles</a>
+            <a href="products.html#stonetiles">Stone Tiles</a>
           </p>
           <p>
-            <a href="products.php#accessories">Accessories</a>
+            <a href="products.html#accessories">Accessories</a>
           </p>
         </div>
         <!-- Second column -->
@@ -335,16 +334,16 @@
           </h6>
           <hr class="pink accent-2 mb-4 mt-0 d-inline-block mx-auto" style="width: 60px;">
           <p>
-            <a href="services.php">Measurement</a>
+            <a href="services.html">Measurement</a>
           </p>
           <p>
-            <a href="services.php">Quotation</a>
+            <a href="services.html">Quotation</a>
           </p>
           <p>
-            <a href="services.php">Roofing</a>
+            <a href="services.html">Roofing</a>
           </p>
           <p>
-            <a href="contact.php">Contact Us</a>
+            <a href="contact.html">Contact Us</a>
           </p>
         </div>
         <!-- Third column -->
@@ -391,17 +390,9 @@
     // Animation init
     new WOW().init();
 
-    $(function () {
-      var selectedClass = "";
-      $(".filter").click(function () {
-        selectedClass = $(this).attr("data-rel");
-        $("#gallery").fadeTo(100, 0.1);
-        $("#gallery div").not("." + selectedClass).fadeOut().removeClass('animation');
-        setTimeout(function () {
-          $("." + selectedClass).fadeIn().addClass('animation');
-          $("#gallery").fadeTo(300, 1);
-        }, 300);
-      });
+    // Material Select Initialization
+    $(document).ready(function () {
+      $('.mdb-select').material_select();
     });
   </script>
 

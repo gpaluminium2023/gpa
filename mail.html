@@ -12,21 +12,21 @@ $subject = $_POST['subject'];
         echo '<script language="javascript">';
         echo 'alert("Name cannot be empty")';
         echo '</script>';
-        echo "<script> window.location.assign('contact.php'); </script>";
+        echo "<script> window.location.assign('contact.ttmll'); </script>";
     die();
     }
     if ($email === ''){
         echo '<script language="javascript">';
         echo 'alert("Email cannot be empty")';
         echo '</script>';
-        echo "<script> window.location.assign('contact.php'); </script>";
+        echo "<script> window.location.assign('contact.ttmll'); </script>";
     die();
     } else {
     if (!filter_var($email, FILTER_VALIDATE_EMAIL)){
         echo '<script language="javascript">';
         echo 'alert("Invalid email")';
         echo '</script>';
-        echo "<script> window.location.assign('contact.php'); </script>";
+        echo "<script> window.location.assign('contact.ttmll'); </script>";
     die();
     }
     }
@@ -34,14 +34,14 @@ $subject = $_POST['subject'];
         echo '<script language="javascript">';
         echo 'alert("Subject cannot be empty")';
         echo '</script>';
-        echo "<script> window.location.assign('contact.php'); </script>";
+        echo "<script> window.location.assign('contact.ttmll'); </script>";
     die();
     }
     if ($message === ''){
         echo '<script language="javascript">';
         echo 'alert("Message cannot be empty")';
         echo '</script>';
-        echo "<script> window.location.assign('contact.php'); </script>";
+        echo "<script> window.location.assign('contact.ttmll'); </script>";
     die();
     }
 
@@ -52,5 +52,5 @@ mail($recipient, $subject, $content, $mailheader) or die("Error!");
 echo '<script language="javascript">';
 echo 'alert("Email Sent")';
 echo '</script>';
-echo "<script> window.location.assign('contact.php'); </script>";
+echo "<script> window.location.assign('contact.ttmll'); </script>";
 ?>
