@@ -1,0 +1,78 @@
+.rex-card {
+     width: 100%;
+     max-width: 440px;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+.rex-card-header {
+     position: relative;
+     margin-bottom: 50px;
+
+     & .profile-img {
+          height: 120px;
+          width: 120px;
+          border-radius: 60px;
+          object-position: center;
+          object-fit: cover;
+          position: absolute;
+          bottom: 0;
+          left: 50%;
+          translate: -50% 40%;
+          padding: 4px;
+          z-index: 10;
+     }
+
+     & .header-img {
+          border-bottom-left-radius: 30px;
+          border-bottom-right-radius: 30px;
+          height: 200px;
+          width: 100%;
+          object-position: center;
+          object-fit: cover;
+          position: relative;
+          z-index: 8;
+     }
+
+     & .header-img-overlay {
+          border-bottom-left-radius: 30px;
+          border-bottom-right-radius: 30px;
+          height: 200px;
+          width: 100%;
+          position: absolute;
+          z-index: 9;
+          background-color: black;
+          opacity: 50%;
+     }
+
+     & .header-title {
+          position: absolute;
+          top: 0;
+          left: 50%;
+          translate: -50% 40%;
+          z-index: 10;
+          font-size: larger;
+          width: 70%;
+          color: #ffffff;
+     }
+}
+
+.social-card {
+     height: 100%;
+     display: flex;
+     flex-direction: row;
+     gap: 10px;
+     align-items: center;
+     justify-content: space-between;
+     padding: 20px 10px;
+
+     & .card-icon {
+          background-color: #ec407a;
+          width: 100%;
+          display: flex;
+          flex-direction: column;
+          align-items: center;
+          justify-content: space-around;
+          border-radius: 10px;
+     }
+}
